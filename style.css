@@ -1,0 +1,194 @@
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body { 
+    margin: 0; 
+    font-family: 'Istok Web', sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-image: url(./assets/bb.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+#about {
+    height: 80vh;
+}
+header ul {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+}
+#about {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.photo img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    opacity: 70%;
+}
+.inside {
+    margin-bottom: 200px;
+}
+.inside h3 {
+    font-family: "Black Ops One";
+    color: #454545;
+    margin: 20px;
+    font-size:30px;
+}
+.inside .as {
+    color: rgb(249, 246, 242);
+    background-image: linear-gradient(black);
+    width: 80px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.social-links {
+    display: flex;
+    gap: 12px;
+    margin-left: 20px;
+}
+
+.social-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    color: #ffffff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.github-btn {
+    background-color: #181717;
+}
+
+.instagram-btn {
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+}
+
+.social-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    filter: brightness(1.1);
+}
+.photo img {
+    margin-right: 160px;
+}
+.for ul li {
+   list-style: none;
+   text-decoration: none;
+}
+.for ul a {
+    color: rgb(255, 255, 255);
+}
+a {
+    text-decoration: none;
+    font-weight: bolder;
+}
+#projects {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    align-items: start;
+}
+#projects div {
+    grid-column: auto;
+    grid-row: auto;
+    background-color: rgb(117, 115, 115);
+    color: white;
+    font-family: "Black Ops One";
+    align-items: center;
+    padding: 30px;
+    border-radius: 30px;
+}
+#projects div button{
+    padding: 10px;
+    border-radius: 40px;
+}
+#projects h1 {
+    text-align: center;
+    font-family: "Black Ops One";
+}
+#blog {
+    height: 100vh;
+}
+#blog div {
+    background-color: darkgray;
+    color: white;
+    padding: 20px;
+    border-color: 1px solid black;
+    border-radius: 30px;
+    margin: 20px;
+}
+#blog h1 {
+    text-align: center;
+    font-family: "Black Ops One";
+}
+#about {
+    height: 100vh;
+}
+.email {
+    border-radius: 20px;
+    background-color: rgb(128, 127, 127);
+}
+.contact {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  text-align: center;
+  height: 100vh;
+}
+
+.email{
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e5e7eb;
+}
+
+.email a {
+  color: #2563eb;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+iframe {
+  border: none;
+  border-radius: 12px;
+  width: 100%;
+}
+.email h3 {
+    text-align: center;
+    font-family: "Black Ops One";
+}
+#contact h1 {
+    text-align: center;
+    font-family: "Black Ops One";
+}
