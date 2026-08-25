@@ -56,6 +56,6 @@ Live link:
 
 https://jaziljafar.com
 
-code Url:
+code Url to run on your machine :
 
-https://github.com/JazilJafar/Jazil-Jafar-VV.git
+git clone https://github.com/JazilJafar/Jazil-Jafar-VV.git
