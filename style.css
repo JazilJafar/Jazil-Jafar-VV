@@ -321,3 +321,6 @@ iframe {
         padding: 8px 16px;
     }
 }
+canvas{
+    display: block;
+}
