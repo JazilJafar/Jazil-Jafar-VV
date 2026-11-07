@@ -60,6 +60,10 @@ code Url to run on your machine :
 
 git clone https://github.com/JazilJafar/Jazil-Jafar-VV.git
 
+# Dipendencies
+
+As i said this is a small project using only html,css So you not want anything like npm or etc you can test my clonning this into your computer and open that index.html 
+
 # License
 
 MIT License
@@ -85,3 +89,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Thank You
+
+After This looking our portfolio Thank You for it. This is not like a small portfoluio or project for me This is my dream to amek this project 
+Also this is a open source project so anyone can contribute to this project also so feel free to contribute to our project again a huge thanks also do not forget to start my repo also
