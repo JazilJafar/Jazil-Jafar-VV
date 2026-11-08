@@ -1,8 +1,12 @@
+# Welcome
+
 Hi My Name is **Jazil Jafar VV** .
 
 This is **My portfolio Website**
 
 ![Alt text](./assets/ret.png)
+
+# Sections
 
 In this my Website I added 4 sections
 
@@ -34,7 +38,7 @@ This is My **Contact Section**
 
 In this I can get your review Real time
 
-Features:
+# Features:
 
 1.Integrated Tally for live response 
 
@@ -42,7 +46,7 @@ Features:
 
 3.Blogs and project sections are available
 
-Languages Used:
+# Languages Used:
 
 1.HTML
 
@@ -50,7 +54,7 @@ Languages Used:
 
 I only used this two languages to make this website
 
-If you like my website PLease give me a Star ⭐
+# Installing and  Testing
 
 Live link:
 
@@ -59,6 +63,8 @@ https://jaziljafar.com
 code Url to run on your machine :
 
 git clone https://github.com/JazilJafar/Jazil-Jafar-VV.git
+
+and open index.html
 
 # Dipendencies
 
@@ -92,3 +98,5 @@ SOFTWARE.
 
 After This looking our portfolio Thank You for it. This is not like a small portfoluio or project for me This is my dream to amek this project 
 Also this is a open source project so anyone can contribute to this project also so feel free to contribute to our project again a huge thanks also do not forget to start my repo also
+
+If you like my website PLease give me a Star ⭐
